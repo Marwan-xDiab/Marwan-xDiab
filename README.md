@@ -1,16 +1,56 @@
-### Hi there 👋
+### 👋 Hi, I’m Marwan Diab 
+ines (30 sloc)  2.75 KB
 
-<!--
-**Marwan-xDiab/Marwan-xDiab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Marwan Diab. Data Analyst" src="./assets/gh-readme-header.png" /></a></p>
 
-Here are some ideas to get you started:
+<br />
+## Profile
+A Data analyst with a track record of analysing data and turning it into useful information and insights 📊. I've worked with a variety of tools (Power Bi and Excel) and languages (Python and SQL).✨ These abilities have been put to use in marketing, sales, forecasting, competitive analysis, and A/B testing projects. I'm excited to put my skills to use in an environment that provides data solutions and encourages everyone to achieve.♥ ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I’m interested in Data Analysis , Data Science and  Business Intelligence
+- 🌱 I’m currently learning Data Analyst
+
+
+## 📫 reach me
+  - kaggle: https://www.kaggle.com/marwandiab
+  - LinkedIn: https://www.linkedin.com/in/marwan-xdiab
+  - PowerBI portfolio : https://www.novypro.com/profile_projects/marwan-diab
+
+
+## ⚡ My Skills
+
+### Concepts 
+  - Data Analysis
+  - Data Warehouse
+  - Data Modeling
+  - Web Scraping (Selenium and BeautifulSoup )
+  - Machine Learning
+  - Statistics
+  - AB Testing
+  - Cloud Computing (Microsoft Azure and IBM Cloud)
+  - Exploratory Data
+  - Project Management
+### Programming Languages
+  - Python
+  - C#
+  - C/C++
+### Databases
+  - Microsoft SQL Server
+  - Oracle
+  - IBM Db2
+  - PostgreSQL
+  - PL/SQL
+  - T-SQL
+### Business intelligence and ETL tools 
+  - SSIS, SSAS, SSRS, MDX
+  - DAX
+  - Power Query
+  - Power Pivot
+  - Crystal Report
+### Reporting and Visualization Tools
+  - Microsoft Excel
+  - Microsoft Power BI 
+  - Tableau
+  - iBM Cognos
+### Personal skills 
+- (Analytical skills, Presentation skills, Problem-solving, Research, Teamwork, Adaptability , Decision Making , Communication Skills, Reliable Interpersonal Skills .)
