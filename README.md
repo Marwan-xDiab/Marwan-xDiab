@@ -1,9 +1,5 @@
 ### 👋 Hi, I’m Marwan Diab 
-ines (30 sloc)  2.75 KB
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Marwan Diab. Data Analyst" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
 ## Profile
 A Data analyst with a track record of analysing data and turning it into useful information and insights 📊. I've worked with a variety of tools (Power Bi and Excel) and languages (Python and SQL).✨ These abilities have been put to use in marketing, sales, forecasting, competitive analysis, and A/B testing projects. I'm excited to put my skills to use in an environment that provides data solutions and encourages everyone to achieve.♥ ✨
 
